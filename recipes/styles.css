@@ -1,0 +1,35 @@
+h1, h2{
+    text-align: center;
+}
+div{
+    display: flex;
+   
+  /* width: 450px;
+     margin: auto;*/
+}
+p{
+    font-size: 20px;
+    color: red;
+}
+h2{
+    font-size: 26px;
+    background-color: rgb(222, 179, 179);
+}
+ul, ol{
+    font-size: 20px;
+}
+ul{
+    background-color: rgb(113, 136, 135);
+}
+ol{
+    background-color: rgb(113, 136, 135);
+    font-weight: bold;
+}
+h1{
+    font-size: 50px;
+    font-family: sans-serif;
+    font-style: italic;
+}
+img{
+    margin: auto;
+}
